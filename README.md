@@ -99,4 +99,4 @@ lib/
 ##  Author
 
 * Developed by **Khaled Kamal**
-* 🌐 GitHub: [Khaled-Kamal](https://github.com/Mo-Saleh404)
+* 🌐 GitHub: [Mo-Saleh](https://github.com/Mo-Saleh404)
